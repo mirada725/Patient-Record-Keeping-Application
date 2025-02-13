@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1701738828 source:c:\users\yehme\onedrive\desktop\medicalcenter_08_edited\medicalcenter_08_edited\medicalcenter_08\medicalcenter\medicalcenter\medicalcenter\medicalcenter.cpp
+	<iostream>
+	<string>
+	"Patient.h"
+	"PatientRecordSystem.h"
+	"dataValidation.h"
+	"MedicineRecordSystem.h"
+	"Medicines.h"
+
+1701740062 c:\users\yehme\onedrive\desktop\medicalcenter_08_edited\medicalcenter_08_edited\medicalcenter_08\medicalcenter\medicalcenter\medicalcenter\patient.h
+	<iostream>
+	<string>
+
+1701738620 c:\users\yehme\onedrive\desktop\medicalcenter_08_edited\medicalcenter_08_edited\medicalcenter_08\medicalcenter\medicalcenter\medicalcenter\patientrecordsystem.h
+	<iostream>
+	<string>
+	"Patient.h"
+
+1701734710 c:\users\yehme\onedrive\desktop\medicalcenter_08_edited\medicalcenter_08_edited\medicalcenter_08\medicalcenter\medicalcenter\medicalcenter\datavalidation.h
+	<iostream>
+	<string>
+
+1701735224 c:\users\yehme\onedrive\desktop\medicalcenter_08_edited\medicalcenter_08_edited\medicalcenter_08\medicalcenter\medicalcenter\medicalcenter\medicinerecordsystem.h
+	"Patient.h"
+	"Medicines.h"
+
+1701672442 c:\users\yehme\onedrive\desktop\medicalcenter_08_edited\medicalcenter_08_edited\medicalcenter_08\medicalcenter\medicalcenter\medicalcenter\medicines.h
+	<iostream>
+	<string>
+
+1700426726 source:c:\users\yehme\onedrive\desktop\medicalcenter_08_edited\medicalcenter_08_edited\medicalcenter_08\medicalcenter\medicalcenter\medicalcenter\patient.cpp
+	"Patient.h"
+
+1700429598 source:c:\users\yehme\onedrive\desktop\medicalcenter_08_edited\medicalcenter_08_edited\medicalcenter_08\medicalcenter\medicalcenter\medicalcenter\patientrecordsystem.cpp
+	"PatientRecordSystem.h"
+
